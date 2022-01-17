@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+D:\IITRMS\DC_Motor\PCB\Project Outputs for PCB\Generates pick and place files\Pick Place for Motor_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13-08-21
+Time:       16:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                            
+U4         NOT          TopLayer NOT       2843.776      860.437       90       "Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOP T/R"               
+U3         NAND         TopLayer NAND      2421.260      1877.559      90       "NAND Gate 4-Element 2-IN Bipolar 14-Pin PDIP Tube"                    
+U2         Comparator   TopLayer COMP      1941.634      912.937       90       "Comparator Dual ±18V/36V 8-Pin Micro T/R"                             
+U1         V_Reg        TopLayer V_REG     1988.189      4785.965      360      "IC REG LINEAR 5V 1A TO220-3"                                          
+R18        5kr          TopLayer 5KR       1535.433      552.087       90       "Metal Film Resistors - Through Hole 1/8watt 5Kohms 1% 100ppm Non Std" 
+R17        5kr          TopLayer 5KR       1535.433      1436.102      90       "Metal Film Resistors - Through Hole 1/8watt 5Kohms 1% 100ppm Non Std" 
+R16        1kr          TopLayer 1KR       3544.307      1492.677      90       "RESISTOR 1.0K OHM 1/4W .01% WW"                                       
+R15        100r         TopLayer 100R      728.346       1368.110      90       "RESISTOR METAL FILM 1W 100 OHM"                                       
+R14        10kr         TopLayer 10KR      5236.221      1271.653      90       "RESISTOR METAL FILM 1W 10.0K OHM"                                     
+R13        10kr         TopLayer 10KR      4527.559      1724.409      90       "RESISTOR METAL FILM 1W 10.0K OHM"                                     
+R12        100kr        TopLayer POT       778.346       2038.189      360      "TRIMMER 100K OHM 0.75W PC PIN"                                        
+R11        5kr          TopLayer 5KR       1555.118      2282.559      90       "Metal Film Resistors - Through Hole 1/8watt 5Kohms 1% 100ppm Non Std" 
+R10        1kr          TopLayer 1KR       3640.732      2916.772      90       "RESISTOR 1.0K OHM 1/4W .01% WW"                                       
+R9         1kr          TopLayer 1KR       2835.646      2890.315      270      "RESISTOR 1.0K OHM 1/4W .01% WW"                                       
+R8         100r         TopLayer 100R      3228.347      4281.496      90       "RESISTOR METAL FILM 1W 100 OHM"                                       
+R7         1kr          TopLayer 1KR       3997.063      1492.677      90       "RESISTOR 1.0K OHM 1/4W .01% WW"                                       
+R6         100r         TopLayer 100R      3700.787      4222.441      90       "RESISTOR METAL FILM 1W 100 OHM"                                       
+R5         100r         TopLayer 100R      2559.055      4261.811      90       "RESISTOR METAL FILM 1W 100 OHM"                                       
+R4         10kr         TopLayer 10KR      5236.221      2708.661      90       "RESISTOR METAL FILM 1W 10.0K OHM"                                     
+R3         10kr         TopLayer 10KR      4566.929      2807.086      90       "RESISTOR METAL FILM 1W 10.0K OHM"                                     
+R2         100r         TopLayer 100R      4114.173      4242.126      90       "RESISTOR METAL FILM 1W 100 OHM"                                       
+R1         5kr          TopLayer 5KR       1535.433      3800.118      90       "Metal Film Resistors - Through Hole 1/8watt 5Kohms 1% 100ppm Non Std" 
+Q9         MOSFET       TopLayer MOSFET    3228.347      3644.232      270      "Trans MOSFET N-CH 60V 0.2A 3-Pin TO-92 Ammo"                          
+Q8         BJT          TopLayer BJT       5497.441      1682.283      270      "TRANS NPN 40V 0.8A TO-18"                                             
+Q7         BJT          TopLayer BJT       4965.945      1662.598      270      "TRANS NPN 40V 0.8A TO-18"                                             
+Q6         MOSFET       TopLayer MOSFET    4074.803      2968.681      270      "Trans MOSFET N-CH 60V 0.2A 3-Pin TO-92 Ammo"                          
+Q5         MOSFET       TopLayer MOSFET    2362.205      3618.287      270      "Trans MOSFET N-CH 60V 0.2A 3-Pin TO-92 Ammo"                          
+Q4         MOSFET       TopLayer MOSFET    4448.819      3624.547      270      "Trans MOSFET N-CH 60V 0.2A 3-Pin TO-92 Ammo"                          
+Q3         BJT          TopLayer BJT       1816.339      3079.921      270      "TRANS NPN 40V 0.8A TO-18"                                             
+Q2         BJT          TopLayer BJT       5576.181      2983.071      270      "TRANS NPN 40V 0.8A TO-18"                                             
+Q1         BJT          TopLayer BJT       4965.945      3001.181      270      "TRANS NPN 40V 0.8A TO-18"                                             
+J3         "1x2 Header" TopLayer HDR1X2    3375.197      334.646       270      "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"          
+J1         "1x2 Header" TopLayer HDR1X2    6220.472      2195.669      0        "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"          
+D2         Diode        TopLayer DIODE     590.551       2578.740      90       "DIODE GEN PURP 50V 1A DO41"                                           
+D1         Diode        TopLayer DIODE     944.882       2578.740      270      "DIODE GEN PURP 50V 1A DO41"                                           
+C3         0.1uf        TopLayer 0.1UF     708.661       717.106       90       "Cap Ceramic 0.1uF 50V X7R 10% Radial 5.08mm (0.01%FR) 125°C Bulk"     
+C2         10uf         TopLayer 10UF      2165.354      4275.394      90       "Cap Ceramic 10uF 25V X7R 20% Radial 5mm 125°C Bulk"                   
+C1         100uf        TopLayer 100UF     1791.339      4275.394      270      "CAP CER 100UF 10V Y5V RADIAL"                                         
+J2         "1x2 Header" TopLayer HDR1X2    275.591       2589.370      0        "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"          

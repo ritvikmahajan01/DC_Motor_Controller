@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\IITRMS\DC_Motor\PCB\Motor_PCB.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
